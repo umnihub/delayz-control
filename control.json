@@ -1,3 +1,4 @@
 {
-  "delete": false
+  "delete": false,
+  "delete_after": "2025-08-15"  // ISO-Datum: Jahr-Monat-Tag
 }
