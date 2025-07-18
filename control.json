@@ -1,6 +1,6 @@
 {
   "delete": false,
   "delete_after": null,
-  "disable_freeze_button": true,
+  "disable_freeze_button": false,
   "disable_hotkey": false
 }
