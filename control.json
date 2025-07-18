@@ -2,5 +2,5 @@
   "delete": false,
   "delete_after": null,
   "disable_freeze_button": true,
-  "disable_hotkey": true
+  "disable_hotkey": false
 }
