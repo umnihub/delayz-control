@@ -3,4 +3,5 @@
   "delete_after": null,
   "disable_freeze_button": false,
   "disable_hotkey": false
+  "message": "News are written here!"
 }
