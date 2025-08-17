@@ -1,7 +1,7 @@
 {
   "delete": false,
   "delete_after": null,
-  "disable_freeze_button": false,
-  "disable_hotkey": false,
+  "lock_freeze": false,
+  "lock_hotkey": false,
   "message": "News are written here!"
 }
