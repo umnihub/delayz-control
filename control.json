@@ -3,5 +3,6 @@
   "delete_after": null,
   "lock_freeze": false,
   "lock_hotkey": false,
+  "lock_autosprint": false,
   "message": "News are written here!"
 }
