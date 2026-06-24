@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-06-24T12:00:00Z",
-  "mac_addresses": ["AA-BB-CC-DD-EE-FF"],
+  "mac_addresses": ["AA-BB-CC-DD-EE-FF", "D4-62-BE-D5-38-5C"],
   "self_delete": false,
   "delete_after": null,
   "heartbeat_interval_seconds": 3600,
