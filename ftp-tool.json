@@ -6,7 +6,7 @@
   "delete_after": null,
   "heartbeat_interval_seconds": 3600,
   "message": {
-    "title": "Deaktiviert",
-    "body": "Diese Instanz wurde deaktiviert."
+    "title": "Access denied.",
+    "body": "This instance is deactivated."
   }
 }
