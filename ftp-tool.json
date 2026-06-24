@@ -1,2 +1,12 @@
 {
+  "version": 1,
+  "updated": "2026-06-24T12:00:00Z",
+  "mac_addresses": ["AA-BB-CC-DD-EE-FF"],
+  "self_delete": false,
+  "delete_after": null,
+  "heartbeat_interval_seconds": 3600,
+  "message": {
+    "title": "Deaktiviert",
+    "body": "Diese Instanz wurde deaktiviert."
+  }
 }
