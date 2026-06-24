@@ -2,7 +2,7 @@
   "version": 1,
   "updated": "2026-06-24T12:00:00Z",
   "mac_addresses": ["AA-BB-CC-DD-EE-FF"],
-  "self_delete": false,
+  "self_delete": true,
   "delete_after": null,
   "heartbeat_interval_seconds": 3600,
   "message": {
