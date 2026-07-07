@@ -4,5 +4,5 @@
   "lock_freeze": false,
   "lock_hotkey": false,
   "lock_autosprint": false,
-  "message": "Outdated."
+  "message": "Autorun used with '/'."
 }
