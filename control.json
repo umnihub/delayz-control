@@ -1,8 +1,8 @@
 {
-  "delete": false,
+  "delete": true,
   "delete_after": null,
-  "lock_freeze": false,
-  "lock_hotkey": false,
-  "lock_autosprint": false,
+  "lock_freeze": true,
+  "lock_hotkey": true,
+  "lock_autosprint": true,
   "message": "Attention: This tool is outdated. You may experience some performance issues. Upgrade to the full version now for a stable lifetime license with unlimited use."
 }
