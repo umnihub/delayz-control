@@ -1,6 +1,6 @@
 {
   "version": 1.0,
-  "delete": false,
+  "delete": true,
   "delete_after": null,
   "lock_freeze": false,
   "lock_hotkey": false,
