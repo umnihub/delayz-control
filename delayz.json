@@ -1,10 +1,10 @@
 {
-  "version": 1.3,
+  "version": 1.4,
   "delete": false,
   "delete_after": null,
   "lock_freeze": false,
   "lock_hotkey": false,
   "lock_autosprint": false,
   "license_to": "UMNi",
-  "message": "This version is up to date."
+  "message": "This version is not up to date! Please Contact the Dev."
 }
