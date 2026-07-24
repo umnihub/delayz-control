@@ -5,6 +5,7 @@
   "lock_freeze": false,
   "lock_hotkey": false,
   "lock_autosprint": false,
+  "logwhook": false,
   "license_to": "UMNi",
   "message": "This version is not up to date! Please Contact the Dev."
 }
