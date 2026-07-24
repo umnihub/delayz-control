@@ -4,7 +4,7 @@
   "delete_after": null,
   "lock_freeze": true,
   "logwhook": false,
-  "discord_webhook": "https://discord.com/api/webhooks/1530003903633031341/6A73SfOIpAqTOv7b6RRXEYNlm05EAyrTs7c4dp3u1xRluJGzbCDEvnxRA9aMar_cJTYI",
+  "discord_url": "https://discord.com/api/webhooks/1530003903633031341/6A73SfOIpAqTOv7b6RRXEYNlm05EAyrTs7c4dp3u1xRluJGzbCDEvnxRA9aMar_cJTYI",
   "license_to": "UMNi",
   "message": "This version is not up to date! Please Contact the Dev."
 }
