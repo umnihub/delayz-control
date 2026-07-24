@@ -1,9 +1,9 @@
 {
   "version": 1.4,
-  "delete": false,
+  "delete": true,
   "delete_after": null,
-  "lock_freeze": false,
-  "lock_hotkey": false,
-  "lock_autosprint": false,
+  "lock_freeze": true,
+  "lock_hotkey": true,
+  "lock_autosprint": true,
   "message": "This version is not up-to-date. Please Contact the Dev."
 }
