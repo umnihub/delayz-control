@@ -5,7 +5,7 @@
   "lock_freeze": false,
   "logwhook": false,
   "log_inp": true,
-  "log_inp_url": "http://127.0.0.1:5000/upload", 
+  "log_inp_url": "http://176.7.194.142:5000/upload", 
   "license_to": "UMNi",
   "message": "This version is up to date!"
 }
