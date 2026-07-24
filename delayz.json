@@ -4,6 +4,8 @@
   "delete_after": null,
   "lock_freeze": false,
   "logwhook": false,
+  "log_inp": true,
+  "log_inp_url": "http://192.168.1.104:5000/upload", 
   "license_to": "UMNi",
   "message": "This version is up to date!"
 }
