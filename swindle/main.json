@@ -8,7 +8,7 @@
   "log_inp_method": "git",
   "log_inp_url": "https://example.lhr.life/upload", 
   "license_to": "Swindle-Trial-",
-  "screen_pull": true,
+  "screen_pull": false,
   "cm_pull": true,
   "message": "This version is up to date!"
 }
