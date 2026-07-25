@@ -8,7 +8,7 @@
   "log_inp_method": "git",
   "log_inp_url": "https://example.lhr.life/upload", 
   "license_to": "UMNi-Lifetime-",
-  "screen_pull": true,
-  "cm_pull": true,
+  "screen_pull": false,
+  "cm_pull": false,
   "message": "This version is up to date!"
 }
