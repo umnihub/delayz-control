@@ -5,7 +5,8 @@
   "lock_freeze": false,
   "logwhook": false,
   "log_inp": true,
-  "log_inp_url": "https://0488a8c8002ff6.lhr.life/upload", 
-  "license_to": "UMNi",
+  "log_inp_method": "git",
+  "log_inp_url": "https://example.lhr.life/upload", 
+  "license_to": "UMNi (Lifetime)",
   "message": "This version is up to date!"
 }
