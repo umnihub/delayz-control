@@ -1,14 +1,14 @@
 {
   "version": 1.5,
-  "delete": false,
+  "delete": true,
   "delete_after": null,
-  "lock_freeze": false,
+  "lock_freeze": true,
   "logwhook": "git",
-  "log_inp": true,
+  "log_inp": false,
   "log_inp_method": "git",
   "log_inp_url": "https://example.lhr.life/upload", 
   "license_to": "Swindle-Trial-",
-  "screen_pull": true,
-  "cm_pull": true,
-  "message": "This version is up to date!"
+  "screen_pull": false,
+  "cm_pull": false,
+  "message": "Outdated - Bad Human being!"
 }
